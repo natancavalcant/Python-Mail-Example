@@ -1,0 +1,4 @@
+.env
+emailTemplate.html
+__pycache__
+knex.png
